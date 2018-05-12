@@ -1,0 +1,41 @@
+_repo: Two-Old-FaithsEssays-on-the-Religions-of-the-Hindus-and-the-Mohammedans_16996
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mitchell, J. Murray (John Murray)
+    alias: Mitchell, John Murray
+    birthdate: 1815
+    deathdate: 1904
+    gutenberg_agent_id: '7078'
+    url: http://www.gutenberg.org/2009/agents/7078
+  - agent_name: Muir, William, Sir
+    alias: Muir, Sir William
+    birthdate: 1819
+    deathdate: 1905
+    gutenberg_agent_id: '7079'
+    url: http://www.gutenberg.org/2009/agents/7079
+    wikipedia: http://en.wikipedia.org/wiki/William_Muir
+description: ''
+gutenberg_bookshelf:
+- Islam
+- Hinduism
+gutenberg_issued: '2005-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hinduism'
+- !lcc 'BL'
+- !lcsh 'Islam'
+- !lcsh 'Christianity and other religions -- Hinduism'
+title: 'Two Old Faiths
+
+  Essays on the Religions of the Hindus and the Mohammedans'
+url: http://www.gutenberg.org/ebooks/16996
