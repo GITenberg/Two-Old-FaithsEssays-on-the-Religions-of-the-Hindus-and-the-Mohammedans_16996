@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7079
     wikipedia: http://en.wikipedia.org/wiki/William_Muir
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16996#Two-Old-FaithsEssays-on-the-Religions-of-the-Hindus-and-the-Mohammedans
 gutenberg_bookshelf:
 - Islam
 - Hinduism
